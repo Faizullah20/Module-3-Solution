@@ -36,11 +36,9 @@ p {
   border-bottom: 2px solid black;
   background-color: white !important;
   color: black;
-}
-div#navbar-collapse {
-  background-color: white;
   
 }
+
 .chicken{
    margin-top: 3px;
    margin-right: 3px;
@@ -64,5 +62,10 @@ div#navbar-collapse {
     .nav{
       display: none;
     }
+    .div#navbar-collapse {
+      background-color: white;
+      
+    }
+      
     
    }
